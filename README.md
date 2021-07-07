@@ -1,16 +1,16 @@
 # the_attendence_manager_app
 
-A new Flutter application.
+An app made to ease attendence taking process in colleges.
 
-## Getting Started
+## Brief Overview
 
-This project is a starting point for a Flutter application.
+This project uses Flutter framework for UI and sqllite as its core for its database.
 
-A few resources to get you started if this is your first Flutter project:
+Screenshots:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![ezgif-7-3528ea90d1df](https://user-images.githubusercontent.com/52758288/124818006-21c46f00-df88-11eb-8383-37c0db40ae25.gif)
+![WhatsApp Image 2021-07-08 at 12 44 06 AM (2)](https://user-images.githubusercontent.com/52758288/124818028-29841380-df88-11eb-895f-8080713c5c6e.jpeg)
+![WhatsApp Image 2021-07-08 at 12 44 06 AM (1)](https://user-images.githubusercontent.com/52758288/124818042-2be66d80-df88-11eb-909b-fe69249d02af.jpeg)
+![WhatsApp Image 2021-07-08 at 12 44 06 AM](https://user-images.githubusercontent.com/52758288/124818051-2db03100-df88-11eb-81a5-2c7ee9f1eb52.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
