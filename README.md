@@ -1,10 +1,11 @@
 # the_attendence_manager_app
 
-An app made to ease attendence taking process in colleges.
+An app made to ease attendence taking process in colleges/schools.
 
 ## Brief Overview
 
 This project uses Flutter framework for UI and sqllite as its core for its database.
+It stores student's name, roll no.,  total days present/absent, attendence percentage.
 
 Screenshots:
 
