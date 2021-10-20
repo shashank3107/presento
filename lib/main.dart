@@ -11,7 +11,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Attendence Manager',
       home: new Home(),
-
     );
   }
 }
